@@ -37,17 +37,6 @@ Mapear os padrões de consumo e valor dos produtos, aplicando a metodologia **AB
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```bash
-├── Supply.ipynb          # Notebook completo com análise e classificação
-├── README.md             # Este arquivo
-├── data/
-│   └── supply_data.csv   # (Opcional) Base de dados fictícia
-├── img/
-│   └── exemplo_matriz.png # (Opcional) Imagens para README
-
-
 
 #
 
