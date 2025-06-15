@@ -33,6 +33,10 @@ Mapear os padrões de consumo e valor dos produtos, aplicando a metodologia **AB
 
 ---
 
+## Projeto inspirado em https://www.kaggle.com/datasets/shahriarkabir/abc-xyz-inventory-classification-dataset
+
+---
+
 ## 📁 Estrutura do Projeto
 
 ```bash
@@ -45,5 +49,5 @@ Mapear os padrões de consumo e valor dos produtos, aplicando a metodologia **AB
 
 
 
-## Projeto inspirado em https://www.kaggle.com/datasets/shahriarkabir/abc-xyz-inventory-classification-dataset
+#
 
